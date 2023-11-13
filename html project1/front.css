@@ -1,0 +1,6 @@
+body
+{
+background-image:url("file://c:/html project/image/yam10.jpg");
+}
+.slide-bck-center{-webkit-animation:slide-bck-center .45s cubic-bezier(.47,0.000,.745,.715) 3 both;animation:slide-bck-center .45s cubic-bezier(.47,0.000,.745,.715) 3 both}
+@-webkit-keyframes slide-bck-center{0%{-webkit-transform:translateZ(0);transform:translateZ(0)}100%{-webkit-transform:translateZ(-400px);transform:translateZ(-400px)}}@keyframes slide-bck-center{0%{-webkit-transform:translateZ(0);transform:translateZ(0)}100%{-webkit-transform:translateZ(-400px);transform:translateZ(-400px)}}
